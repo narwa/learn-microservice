@@ -10,7 +10,7 @@
 
     <modules>
         <module>counterservice</module>
-        <module>configservice</module>
+        <!--<module>configservice</module>-->
         
     </modules>
 
