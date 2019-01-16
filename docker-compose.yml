@@ -1,0 +1,10 @@
+version: '3'
+services:
+  counterservice:
+    build: counterservice
+    ports:
+      - "8080:8080"
+  configservice:
+    build: configservice
+    ports:
+      - "8888:8888"
